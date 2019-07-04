@@ -1,0 +1,3 @@
+﻿  N-reinas.cpp
+d:\owncode\backtracking\n-reinas\n-reinas\n-reinas.cpp(89): warning C4715: 'Tablero::full_queen': not all control paths return a value
+  N-reinas.vcxproj -> D:\OwnCode\BackTracking\N-reinas\Debug\N-reinas.exe

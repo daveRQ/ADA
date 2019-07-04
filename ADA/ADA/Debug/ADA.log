@@ -1,0 +1,3 @@
+﻿  ADA.cpp
+d:\repositorio\c++\ada\ada\ada.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ADA.vcxproj -> D:\Repositorio\c++\ADA\Debug\ADA.exe
